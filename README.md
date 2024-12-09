@@ -1,6 +1,6 @@
 # Chat App Web Application
 
-A real-time chat application built using the MERN stack with socket-based communication and a modern, responsive design.
+A real-time chat application built using the MERN stack with socket-based communication and a modern.
 
 ## Features
 
@@ -8,7 +8,6 @@ A real-time chat application built using the MERN stack with socket-based commun
 - **User authentication:** Secure registration and login with JWT.
 - **Session management:** Automatic session expiration after 5 minutes of inactivity.
 - **Attractive UI:** Developed with `React`, `Tailwind CSS`, and `Framer Motion` for smooth animations.
-- **Responsive design:** Works flawlessly on all devices.
 - **User Profile Management:** Manage user details on the profile page.
 
 ---
